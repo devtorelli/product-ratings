@@ -1,0 +1,18 @@
+//Salvar no banco de dados
+	$query = "INSERT INTO sol_ratings (dominio, atendimento, prazo, qualidade, comentario, data_registro) VALUES ('$domain', '$at', '$pz', '$qdd', '$comment', NOW())";
+	$resultado = mysqli_query($conn, $query);
+
+
+
+
+    Boa tarde David, tudo certo? Cara por favor veja se pode nos ajudar nesse caso, criamos o solusite www.manollomassas.com.br para a unidade de Americana. Publicamos esse site a mais de 5 meses já, criamos o arquivo sitemap.xml junto com os arquivos do site, solicitamos inúmeras vezes via Google Search Console a indexação da URL no Google mas até hoje nada desse site indexar. Até tentei uma manobra de desvincular a api do solusite e inserir só um html estático da página, mas também sem sucesso.
+    Existe alguma outra ação que possamos fazer pra que essa página indexe?
+
+    23123355, 23055793, 21669167, 21651703, 23123631, 23123518, 23111187, 23118520, 23038770, 23124328, 23123369, 21670162, 5969433, 19157819, 23124269, 22018238, 23008507, 23111016, 23124191, 22018238, 23008507, 23111016, 23102673, 21667202, 23123449, 22829998, 12173341, 22094586, 23123070, 23123252, 23123694, 22249409, 23106349, 23102543, 22982052, 4318267, 22541959, 22556021, 23101724, 22865358, 21668019, 21649083, 21664437, 23106761, 23123247, 23107979, 1290576, 22146799, 12147040, 339724, 20916763, 22398104, 22088934, 22245572, 21972932, 22112166, 22075092, 67501, 21729223, 22378348, 23102467, 22246371, 23102504, 22029150, 21650907, 22467032, 23038479, 22941423 
+
+
+
+
+
+    23102635 - Logos Seguranca
+    22217537 - Viggia Solar
