@@ -11,7 +11,8 @@
       
   </head>
   <body>
-    <div class="container-fluid">					
+    <div class="container-fluid">
+			<img src="https://devtorelli.com.br/previa/assets/images/Home/devtorelli-logo.png" class="mt-4"/>					
 			<h1 class="mt-4">Avalie o seu site!</h1><br>
 			<h6>Avalie nosso produto para nos ajudar a entender como podemos melhorar e atender às suas necessidades. Sua opinião é muito valiosa para nós!</h6><br><br>
 			
